@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410643112580",
+    "project_id": "breaking-news-kotlin",
+    "storage_bucket": "breaking-news-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410643112580:android:da1f745eaedfbe7b7c98d1",
+        "android_client_info": {
+          "package_name": "com.okantepe.retrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410643112580-qmv7blskh9dff1deqo825ft24ui60fgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32rK2MHHe7pWWRgjjJtFiKBbEj_5t0UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410643112580-qmv7blskh9dff1deqo825ft24ui60fgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
